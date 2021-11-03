@@ -1,0 +1,7 @@
+s8 w8 h3 s6
+c3 i6 n0 s14 w11
+w14 h6 c3 i3 s8 c14
+c11 i14 n0 s6 w18 h6 c11
+w6 h8 c8 i8 s3 w8
+i11 c11 h14 s6 c11
+w3 h14 c6 s14
